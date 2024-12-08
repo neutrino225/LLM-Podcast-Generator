@@ -1,0 +1,35 @@
+Here's the podcast episode:
+
+HOST: Welcome to today's episode of "Health Tech Insights". I'm your host, Rachel, and we're here with Dr. Lisa Nguyen, a researcher who's been studying how healthcare professionals can effectively integrate artificial intelligence into their practice. Welcome to the show, Dr. Nguyen!
+
+GUEST: Thank you, Rachel! It's great to be here.
+
+HOST: So, let's dive right in. You've been working on a project that explores how healthcare professionals can trust AI-powered decision-making tools. Can you tell us a bit more about what you've found?
+
+GUEST: Absolutely. Our research showed that there are several key factors that influence whether healthcare professionals trust AI outputs. These include the characteristics of trustworthy colleagues, such as their knowledge and background, work ethics, and timeliness.
+
+HOST: That's fascinating. So, it sounds like personality is not a major factor in trusting AI?
+
+GUEST: Not necessarily. While personality can play a role, what's more important is that healthcare professionals feel confident in the expertise of their colleagues when working with AI. For example, if they know that a colleague has extensive experience with certain rehabilitation procedures, they're more likely to trust their input.
+
+HOST: I see. And what about AI itself? What features do you think are most useful for onboarding with AI?
+
+GUEST: Well, we found that healthcare professionals value explanations that help them understand the reasoning behind an AI's decision. Features like feature importance, counterfactuals, and example-based explanations were ranked as the most useful.
+
+HOST: Those sound like pretty technical terms. Can you give us an example of what those might look like in practice?
+
+GUEST: Sure. For instance, if an AI suggests that a patient should use a certain type of rehabilitation equipment, it would be helpful to see a feature importance analysis that explains why the AI chose that particular piece of equipment.
+
+HOST: That makes sense. And finally, we have questions from our audience about how healthcare professionals can deal with uncertainty around AI performance. What do you think are some key takeaways for these listeners?
+
+GUEST: I think it's really important to establish clear criteria for evaluating AI performance, such as metrics like F1-score or accuracy. We also need to recognize that AI is not perfect and may make mistakes. It's essential to have a process in place for addressing errors and updating the AI system accordingly.
+
+HOST: That's great advice. Before we wrap up, are there any final thoughts you'd like to share with our listeners?
+
+GUEST: Just that integrating AI into healthcare requires a thoughtful and multi-faceted approach. We need to prioritize not just technical expertise but also trust-building relationships between clinicians and AI systems.
+
+HOST: Thank you so much for sharing your insights with us today, Dr. Nguyen. It's been enlightening to learn more about the role of AI in healthcare.
+
+GUEST: The pleasure is mine, Rachel. Thanks again for having me on the show!
+
+HOST: And thank you to our listeners for tuning in. If you'd like to learn more about this topic or explore other health tech insights, be sure to check out our website and follow us on social media. Until next time, stay healthy!

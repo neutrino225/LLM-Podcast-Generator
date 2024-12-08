@@ -1,0 +1,13 @@
+Data/
+pdfs_txt
+test.py
+podcast_tokenizer_epoch_10
+podcast_transformer_epoch_10
+added_tokens.json
+config.json
+merges.txt
+tokenizer_config.json
+model.safetensors
+generation_config.json
+tokenizer.json
+vocab.json
