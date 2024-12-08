@@ -278,8 +278,8 @@ def generate_podcast_with_feedback(pdf_file, model_type):
     elif model_type == "Custom LLM":
         print("Using Custom LLM model")
         article = extract_text(pdf_file)
-        # url = "http://localhost:5000/generate-script"
-        url = "http://host.docker.internal:5000/generate-script"
+        url = "http://localhost:5000/generate-script"
+        # url = "http://host.docker.internal:5000/generate-script" --> For Docker container to host
 
         data = {"text": article}
 
